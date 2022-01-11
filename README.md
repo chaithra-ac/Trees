@@ -1,7 +1,9 @@
 # Trees
 ### To create the tree nodes
-```
-public class BTree {
+
+`
+
+    public class BTree {
     static Root root;
 
     private class Root {
@@ -30,11 +32,13 @@ public class BTree {
             printTree(root.right);
         }
 
-    public static void main(String[] args) {
-        BTree bt=new BTree();
-        bt.createTree();
-        bt.printTree(bt.root);
+        public static void main(String[] args) {
+           BTree bt=new BTree();
+           bt.createTree();
+           bt.printTree(bt.root);
+       }
     }
-}
+  
+`
 
-```
+ 
