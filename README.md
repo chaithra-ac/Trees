@@ -1,2 +1,2 @@
 # Trees
-Traversal Algorithms
+Traversals , Algorithms and problems
